@@ -1,6 +1,6 @@
 
-- 🔭 My web site --> https://teknobithub.com
-- 💬 E-mail --> hamzatmacatr@gmail.com
-- 💻 Always Coding..
+- 🔭  https://teknobithub.com
+- 💬  attmacah@yandex.com
+- 💻  Always Coding..
 
 
